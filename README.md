@@ -24,10 +24,13 @@ The mod's settings can be configured in the `config.json` file:
 
 ```json
 {
-  "Show_Full_Life": true,    // Show health bars for monsters at full health
-  "Range_Verification": false // Only show health bars for monsters within range
+  "Show_Full_Life": true,    
+  "Range_Verification": false
 }
 ```
+`Show_Full_Life`  Show health bars for monsters at full health
+
+`Range_Verification` Only show health bars for monsters within range
 
 ## Console Commands
 
@@ -39,8 +42,13 @@ The mod provides the following in-game commands:
 
 ## Known Issues
 
-- The mod will not work regarding newly additional modded monsters.
+- This mod may not support monsters added by other mods.
 
+## Resources
+All credit goes to:
+- [SMAPI Docs](https://stardewvalleywiki.com/Modding:Modder_Guide/APIs)
+- [Enemy Health Bar by OrSpeeder](https://www.nexusmods.com/stardewvalley/mods/193)
+- [Mini Bars by Coldopa](https://www.nexusmods.com/stardewvalley/mods/8329)
 
 ## License
 
