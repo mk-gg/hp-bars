@@ -38,7 +38,7 @@ namespace HPBars.src.Utils
 
         public static Color GetBarColor()
         {
-            return new Color(172, 50, 50, 255);
+            return new Color(82, 206, 85, 255);
         }
 
         public static Color GetBorderColor()
