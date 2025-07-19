@@ -1,0 +1,10 @@
+{
+    "Name": "Health bar",
+    "Author": "mkgg",
+    "Version": "1.0.0",
+    "Description": "A mod to see the health bar of monsters.",
+    "UniqueID": "mkgg.hp-bars",
+    "EntryDll": "sv-hp-bar.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
