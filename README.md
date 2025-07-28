@@ -39,10 +39,8 @@ The mod provides the following in-game commands:
 - `hpbars_showfull <true/false>` - Toggle health bars for full-health monsters
 - `hpbars_range <true/false>` - Toggle range verification for health bars
 
-
-## Known Issues
-
-- This mod may not support monsters added by other mods.
+> [!NOTE]
+> This mod may not support monsters added by other mods.
 
 ## Resources
 All credit goes to:
